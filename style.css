@@ -1,87 +1,87 @@
-.DevStudio{
-    position: absolute;
-    width: 136px;
-    height: 31px;
-    left: 215px;
-    top: 24px;
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    /* identical to box height */
-    letter-spacing: 0.03em;
-    color: #2196F3;
+.DevStudio {
+  position: absolute;
+  width: 136px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: #2196f3;
 }
-h1{
-    font-family: Roboto;
-    font-size: 44px;
-    font-weight: 900;
-    line-height: 60px;
-    letter-spacing: 0.06em;
-    text-align: center;
-    color: white;
-    position: absolute;
+h1 {
+  font-family: Roboto;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  text-align: center;
+  color: white;
+  position: absolute;
 }
-.button1{
-    width: 200px;
-    height: 50px;
-    top: 430px;
-    left: 700px;
-    gap: 0px;
-    border-radius: 4px 0px 0px 0px;
-    opacity: 0px;
-    position: absolute;
+.button1 {
+  width: 200px;
+  height: 50px;
+  top: 430px;
+  left: 700px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+  position: absolute;
 }
-h4{
-    font-family: Roboto;
-    font-size: 14px;
-    font-weight: 700;
-    line-height: 16.41px;
-    letter-spacing: 0.03em;
-    text-align: left;
+h4 {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16.41px;
+  letter-spacing: 0.03em;
+  text-align: left;
 }
-h2{
-    font-family: Roboto;
-    font-size: 36px;
-    font-weight: 700;
-    line-height: 42.19px;
-    letter-spacing: 0.03em;
-    text-align: center;
+h2 {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42.19px;
+  letter-spacing: 0.03em;
+  text-align: center;
 }
-h5{
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 18.75px;
-    letter-spacing: 0.03em;
-    text-align: center;
+h5 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  letter-spacing: 0.03em;
+  text-align: center;
 }
-.block1{
-    display: inline-block;
-    width: 20%;
+.block1 {
+  display: inline-block;
+  width: 20%;
 }
-.section1{
-    margin: 0 auto;
-    width: 80%;
+.section1 {
+  margin: 0 auto;
+  width: 80%;
 }
-.section2{
-    margin: 0 auto;
-    width: 70%;
+.section2 {
+  margin: 0 auto;
+  width: 70%;
 }
-.section3{
-    margin: 0 auto;
-    width: 90%;
+.section3 {
+  margin: 0 auto;
+  width: 90%;
 }
-.paragraph1{
-    font-family: Roboto;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.03em;
-    text-align: left;
+.paragraph1 {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
 }
-.person-section{
-    width: 20%;
-    display: inline-block;
+.person-section {
+  width: 20%;
+  display: inline-block;
 }
